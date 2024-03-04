@@ -1,3 +1,9 @@
+---
+layout: home
+title: Jekyll Gitbook Theme
+permalink: /
+---
+
 # COMP001
 复旦面向新生和计算机初学者的入门指南
 
